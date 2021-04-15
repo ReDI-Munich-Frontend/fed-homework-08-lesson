@@ -1,12 +1,12 @@
 # fed-homework-08-lesson
-This homewoork gives you the chance to get a bit creative and apply your knowledge on flexbox and grid!
+This homework gives you the chance to get a bit creative and apply your knowledge on flexbox and grid!
 
 ## Background
 
 The "ReDI News" team wants to setup an online version of their newspaper. They ask you the help them with this task. 
 As they would like to reach as many readers as possible, the page should be easily readable on a laptop/tablet and phone screen.
 
-The team asks you to create a single-page application - the start page - which comprises at least the following content:
+The team asks you to create a website - the start page - which comprises at least the following content:
 
 1. a header with the ReDI logo and the name of the newspaper. The font-size should be a bit larger than that of the content.
 2. 6. a navigation bar (They have not given any indication on how this should be designed. It could be a burger menu, a vertical or horizontal sidebar)
